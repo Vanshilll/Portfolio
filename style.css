@@ -201,50 +201,7 @@ hr{
     height: 120vh;
 }
 
-*{
-    text-decoration: none;
-    scroll-behavior: smooth;
-    scroll-padding: 10rem;
-}
 
-.navbar{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding-right: 15px;
-    padding-left: 15px;
-}
-
-.navdiv{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-    .back-video{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
-    width: 100%;
-    height: 120vh;
-}
-
-    .back-video{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
-    width: 100%;
-    height: 120vh;
-}
-
-.back-video{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
-    width: 100%;
-    height: 120vh;
-}
 
     
 }
